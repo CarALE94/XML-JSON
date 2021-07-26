@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registro>
+	<titulo>Datos de estudiantes</titulo>
+	<estudiante id="1">
+		<nombre>Alejandro</nombre>
+		<apellido>Mendoza</apellido>
+		<semestre>5 semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Los Espinos</direccion>
+		<telefono>0988736877</telefono>
+		<correo>mendoza@gmail.com</correo>
+	</estudiante>
+	<estudiante id="2">
+		<nombre>Javier</nombre>
+		<apellido>Alcivar</apellido>
+		<semestre>4 semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Miraflores</direccion>
+		<telefono>0986804774</telefono>
+		<correo>alcivar@gmail.com</correo>
+	</estudiante>
+	<estudiante id="3">
+		<nombre>Carolina</nombre>
+		<apellido>Zambrano</apellido>
+		<semestre>8 semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Urbirrios</direccion>
+		<telefono>0924567897</telefono>
+		<correo>zambrano@gmail.com</correo>
+	</estudiante>
+	<estudiante id="4">
+		<nombre>Deidi</nombre>
+		<apellido>Gabiria</apellido>
+		<semestre>4 semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Los Esteros</direccion>
+		<telefono>0978945628</telefono>
+		<correo>gabiria@gmail.com</correo>
+	</estudiante>
+	<estudiante id="5">
+		<nombre>Cristofer</nombre>
+		<apellido>Delgado</apellido>
+		<semestre>7 semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Cuba</direccion>
+		<telefono>0934478925</telefono>
+		<correo>delgado@gmail.com</correo>
+	</estudiante>
+	<estudiante id="6">
+		<nombre>Hector</nombre>
+		<apellido>Lopez</apellido>
+		<semestre>5 semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Aurora</direccion>
+		<telefono>0987456218</telefono>
+		<correo>lopez@gmail.com</correo>
+	</estudiante>
+	<estudiante id="7">
+		<nombre>Kelvin</nombre>
+		<apellido>Intriago</apellido>
+		<semestre>1 semestre</semestre>
+		<paralelo>Paralelo "A"</paralelo>
+		<direccion>Los Almendros</direccion>
+		<telefono>0974568921</telefono>
+		<correo>intriago@gmail.com</correo>
+	</estudiante>
+	<estudiante id="8">
+		<nombre>Julio</nombre>
+		<apellido>Velez</apellido>
+		<semestre>6 semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Tarqui</direccion>
+		<telefono>0912487695</telefono>
+		<correo>velez@gmail.com</correo>
+	</estudiante>
+	<estudiante id="9">
+		<nombre>David</nombre>
+		<apellido>Ponce</apellido>
+		<semestre>5 semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>El Porvenir</direccion>
+		<telefono>0987564897</telefono>
+		<correo>ponce@gmail.com</correo>
+	</estudiante>
+	<estudiante id="10">
+		<nombre>Karen</nombre>
+		<apellido>Garcia</apellido>
+		<semestre>8 semestre</semestre>
+		<paralelo>Paralelo "B"</paralelo>
+		<direccion>Epoca</direccion>
+		<telefono>0945621238</telefono>
+		<correo>garcia@gmail.com</correo>
+	</estudiante>
+</registro>
